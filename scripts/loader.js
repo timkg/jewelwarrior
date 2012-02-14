@@ -1,6 +1,7 @@
 var jewel = {};
 
 window.addEventListener('load', function() {
+    
 	Modernizr.load([
 		{
 			load: [
